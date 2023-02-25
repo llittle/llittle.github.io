@@ -1,4 +1,6 @@
-#Corn Bread
+# Corn Bread
+5/5
+
 page: 687
 
 cooked: 2023/02/25
@@ -11,8 +13,6 @@ cooked: 2023/02/25
 - Added 3m to cooking time (33m total), and it came out with a great dark crust and golden top
 
 ## Results
-
-5/5
 
 <pic.png>
 
