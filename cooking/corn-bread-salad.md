@@ -1,7 +1,6 @@
 
 # Corn Bread Salad
-![Corn Bread Salad Zoom Out](/cooking/1.jpg){ width=60%,height:30px }
-![Corn Bread Salad Zoom In](/cooking/2.jpg){ width=60%,height:30px }
+<img src="/cooking/1.jpg" alt="zoomed in" width="400"/> <img src="/cooking/2.jpg" alt="zoomed out" width="400"/>
 
 (Adaption of Crouton Salad)
 
