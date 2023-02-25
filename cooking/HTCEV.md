@@ -1,42 +1,8 @@
 Cooking from Mark Bittman's "How To Cook Everything Vegetarian" cookbook.
 
 # Salads
-## Corn Bread Salad
-
-Adaption of Crouton Salad
- 
-page: 88
-
-cooked: 2023/02/25
-
-### Substitutions and Notes
-- Red wine vinegar not lemon juice
-- used both cilantro and basil
-### Results
-
-5/5
-
-I was really skeptical about the recipe since seems pretty different. However ended up being really good. I liked that it was so heavy with the fresh herbs and tomatoes, tasted very fresh with just a hint of spice. The vinegar wasn't a very predominant flavor, which was good, and the cornbread and tomatoes had a good texture offset to each other.
+[Crouton Salad: Corn Bread Salad](/corn-bread-salad)
 
 # Breads, Pizzas, Sandwiches, and Wraps
-## Corn Bread
+[Corn Bread](/corn-bread)
 
-page: 687
-
-cooked: 2023/02/25
-### Substitutions and Notes
-
-- Forgot to add 1 tbl sugar! 
-- Used salted butter instead of oil
-- Used Elmdorf Wapsi Valley Rustic Polenta for the cornmeal. Not sure how course/fine of a grian that is supposed to be
-- Cooked in my cast iron skillet
-- Added 3m to cooking time (33m total), and it came out with a great dark crust and golden top
-### Results
-
-5/5
-
-<pic.png>
-
-Made this for another recipe, but took time to try out a slice first- delicious! 
-
-Fine without the sugar, although it wouldn't have hurt. Good flavor and I love the crust you get with the cast iron.  
