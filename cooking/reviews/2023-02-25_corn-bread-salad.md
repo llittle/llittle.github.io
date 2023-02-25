@@ -1,5 +1,5 @@
 # Corn Bread Salad
-<img src="/cooking/Photos/2023-02-25_corn-bread-salad-zi.jpg" alt="Cornbread salad closeup" width="400"/> <img src="/cooking/Photos/2023-02-25_corn-bread-salad-zo.jpg" alt="Cornbread salad in bowl" width="400"/>
+<img src="/cooking/photos/2023-02-25_corn-bread-salad-zi.jpg" alt="Cornbread salad closeup" width="400"/> <img src="/cooking/photos/2023-02-25_corn-bread-salad-zo.jpg" alt="Cornbread salad in bowl" width="400"/>
 
 (Adaption of Crouton Salad)
 
