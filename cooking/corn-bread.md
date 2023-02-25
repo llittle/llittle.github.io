@@ -9,6 +9,7 @@ cooked: 2023/02/25
 - Used Elmdorf Wapsi Valley Rustic Polenta for the cornmeal. Not sure how course/fine of a grian that is supposed to be
 - Cooked in my cast iron skillet
 - Added 3m to cooking time (33m total), and it came out with a great dark crust and golden top
+
 ## Results
 
 5/5
