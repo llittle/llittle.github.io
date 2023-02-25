@@ -1,4 +1,6 @@
 # Corn Bread
+<img src="/cooking/3.jpg" alt="zoomed in" width="400"/> <img src="/cooking/4.jpg" alt="zoomed out" width="400"/>
+
 5/5
 
 page: 687
