@@ -1,6 +1,8 @@
 
 # Corn Bread Salad
 (Adaption of Crouton Salad)
+
+5/5
  
 page: 88
 
@@ -10,7 +12,5 @@ cooked: 2023/02/25
 - Red wine vinegar not lemon juice
 - used both cilantro and basil
 ## Results
-
-5/5
 
 I was really skeptical about the recipe since seems pretty different. However ended up being really good. I liked that it was so heavy with the fresh herbs and tomatoes, tasted very fresh with just a hint of spice. The vinegar wasn't a very predominant flavor, which was good, and the cornbread and tomatoes had a good texture offset to each other.
