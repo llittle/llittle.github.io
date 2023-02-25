@@ -1,5 +1,8 @@
 
 # Corn Bread Salad
+![Corn Bread Salad Zoom Out](/cooking/1.jpg){ width=60%,height:30px }
+![Corn Bread Salad Zoom In](/cooking/2.jpg){ width=60%,height:30px }
+
 (Adaption of Crouton Salad)
 
 5/5
