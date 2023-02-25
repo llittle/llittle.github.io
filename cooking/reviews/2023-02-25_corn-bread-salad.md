@@ -1,6 +1,5 @@
-
 # Corn Bread Salad
-<img src="/cooking/1.jpg" alt="zoomed in" width="400"/> <img src="/cooking/2.jpg" alt="zoomed out" width="400"/>
+<img src="/cooking/Photos/2023-02-25_corn-bread-salad-zi.jpg" alt="Cornbread salad closeup" width="400"/> <img src="/cooking/Photos/2023-02-25_corn-bread-salad-zo.jpg" alt="Cornbread salad in bowl" width="400"/>
 
 (Adaption of Crouton Salad)
 
@@ -18,3 +17,5 @@ cooked: 2023/02/25
 I was really skeptical about the recipe since seems pretty different. However ended up being really good. 
 I liked that it was so heavy with the fresh herbs and tomatoes, tasted very fresh with just a hint of spice. 
 The vinegar wasn't a very predominant flavor, which was good, and the cornbread and tomatoes had a good textural offset to each other.
+
+One recipe makes 3 large servings.
