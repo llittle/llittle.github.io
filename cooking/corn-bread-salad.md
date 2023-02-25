@@ -11,6 +11,6 @@ cooked: 2023/02/25
 ## Substitutions and Notes
 - Red wine vinegar not lemon juice
 - used both cilantro and basil
-## Results
 
+## Results
 I was really skeptical about the recipe since seems pretty different. However ended up being really good. I liked that it was so heavy with the fresh herbs and tomatoes, tasted very fresh with just a hint of spice. The vinegar wasn't a very predominant flavor, which was good, and the cornbread and tomatoes had a good texture offset to each other.
