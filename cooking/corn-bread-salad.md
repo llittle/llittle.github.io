@@ -4,8 +4,8 @@
 
 (Adaption of Crouton Salad)
 
-5/5
- 
+:star::star::star::star::star: (5)
+
 page: 88
 
 cooked: 2023/02/25
