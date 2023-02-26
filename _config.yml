@@ -1,4 +1,4 @@
 plugins:
   - jemoji
 title: LL
-
+remote_theme: llittle/lanyon
