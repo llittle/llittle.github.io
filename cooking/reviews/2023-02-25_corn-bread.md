@@ -1,5 +1,5 @@
 # Corn Bread
-<img src="/cooking/Photos/2023-02-25_corn-bread-zi.jpg" alt="Close up of cornbread slice" width="400"/> <img src="/cooking/Photos/2023-02-25_corn-bread-zi.jpg" alt="Cornbread in cast iron pan" width="400"/>
+<img src="/cooking/photos/2023-02-25_corn-bread-zi.jpg" alt="Close up of cornbread slice" width="400"/> <img src="/cooking/photos/2023-02-25_corn-bread-zo.jpg" alt="Cornbread in cast iron pan" width="400"/>
 
 :star::star::star::star::star: (5)
 

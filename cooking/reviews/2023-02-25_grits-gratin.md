@@ -1,5 +1,5 @@
 # Grits Gratin with Escarole, Garlic, and Lemon
-<img src="/cooking/Photos/2023-02-25_grits-gratin-1.jpg" alt="Cassarole in dish" width="400"/> <img src="/cooking/Photos/2023-02-25_grits-gratin-2.jpg" alt="Cut slice of cassarole showing layers of grits and spinach" width="400"/>
+<img src="/cooking/photos/2023-02-25_grits-gratin-1.jpg" alt="Cassarole in dish" width="400"/> <img src="/cooking/photos/2023-02-25_grits-gratin-2.jpg" alt="Cut slice of cassarole showing layers of grits and spinach" width="400"/>
 
 (Adaption of Grits Gratin with Arugula and Garlic)
 
