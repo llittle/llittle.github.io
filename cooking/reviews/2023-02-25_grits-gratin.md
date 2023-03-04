@@ -3,7 +3,7 @@
 
 (Adaption of Grits Gratin with Arugula and Garlic)
 
-:star::star::star::star::star: (5)
+:arrows_counterclockwise: (3)
 
 page: 551
 
