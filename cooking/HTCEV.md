@@ -21,7 +21,7 @@ Cooking from Mark Bittman's "How To Cook Everything Vegetarian" cookbook.
 # Grains
 :arrows_counterclockwise: (2) [Grits Gratin with Escarole, Garlic, and Lemon (Grits Gratin with Arugula and Garlic)](/cooking/reviews/2023-02-25_grits-gratin) 
 
-:star::star::star::star:star: (5) [Risotto with Dried and Fresh Mushrooms](/cooking/reviews/2023-03-08_mushroom_risotto) / (5)
+:star::star::star::star::star: (5) [Risotto with Dried and Fresh Mushrooms](/cooking/reviews/2023-03-08_mushroom_risotto) / (5)
 
 # Legumes
 :star::star::star: (3) [Lima Bean Puree with Fennel and Orange Juice (White Bean Puree)](/cooking/reviews/2023-03-01_lima-bean-puree) / (3)
