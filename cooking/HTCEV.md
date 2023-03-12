@@ -8,7 +8,7 @@ Cooking from Mark Bittman's "How To Cook Everything Vegetarian" cookbook.
 :star::star: (2) [Celery Remoulade](/cooking/reviews/2023-03-01_celery-remoulade) / (3)
 
 # Soups
-:star::star::star::star: (4) [Brazilian-Style Black Bean Soup](/cooking/reviews/2023-03-08_black_bean_soup / (2)
+:star::star::star::star: (4) [Brazilian-Style Black Bean Soup](/cooking/reviews/2023-03-08_black_bean_soup) / (2)
 
 # Produce: Vegetables and Fruits
 :star::star::star::star::star: (5) [Braised Escarole](/cooking/reviews/2023-03-01_braised-escarole) 
