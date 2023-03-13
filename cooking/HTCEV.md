@@ -10,6 +10,8 @@ Cooking from Mark Bittman's "How To Cook Everything Vegetarian" cookbook.
 # Soups
 :star::star::star::star: (4) [Brazilian-Style Black Bean Soup](/cooking/reviews/2023-03-08_black_bean_soup / (2)
 
+:arrows_counterclockwise: (3) [Thai-Style Creamy Carrot Soup](/cooking/reviews/2023-03-12_thai-carrot-soup)
+
 # Produce: Vegetables and Fruits
 :star::star::star::star::star: (5) [Braised Escarole](/cooking/reviews/2023-03-01_braised-escarole) 
 
