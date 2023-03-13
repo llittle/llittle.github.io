@@ -8,7 +8,7 @@ Cooking from Mark Bittman's "How To Cook Everything Vegetarian" cookbook.
 :star::star: (2) [Celery Remoulade](/cooking/reviews/2023-03-01_celery-remoulade) / (3)
 
 # Soups
-:star::star::star::star: (4) [Brazilian-Style Black Bean Soup](/cooking/reviews/2023-03-08_black_bean_soup / (2)
+:star::star::star::star: (4) [Brazilian-Style Black Bean Soup](/cooking/reviews/2023-03-08_black_bean_soup) / (2)
 
 :arrows_counterclockwise: (3) [Thai-Style Creamy Carrot Soup](/cooking/reviews/2023-03-12_thai-carrot-soup)
 
@@ -23,7 +23,7 @@ Cooking from Mark Bittman's "How To Cook Everything Vegetarian" cookbook.
 # Grains
 :arrows_counterclockwise: (2) [Grits Gratin with Escarole, Garlic, and Lemon (Grits Gratin with Arugula and Garlic)](/cooking/reviews/2023-02-25_grits-gratin) 
 
-:star::star::star::star:star: (5) [Risotto with Dried and Fresh Mushrooms](/cooking/reviews/2023-03-08_mushroom_risotto) / (5)
+:star::star::star::star::star: (5) [Risotto with Dried and Fresh Mushrooms](/cooking/reviews/2023-03-08_mushroom_risotto) / (5)
 
 # Legumes
 :star::star::star: (3) [Lima Bean Puree with Fennel and Orange Juice (White Bean Puree)](/cooking/reviews/2023-03-01_lima-bean-puree) / (3)
